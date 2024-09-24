@@ -29,6 +29,10 @@ h3 {
     margin: 0 auto;
 }
 
+#painting-img {
+    width: 800px;
+}
+
 #outro-img{
     display: block;
     width: 800px;
